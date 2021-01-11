@@ -20,7 +20,7 @@ GEM
     nokogumbo (2.0.2)
       nokogiri (~> 1.8, >= 1.8.4)
     plist (3.5.0)
-    redcarpet (3.5.0)
+    redcarpet (3.5.1)
     rouge (3.19.0)
     sanitize (5.1.0)
       crass (~> 1.0.2)
